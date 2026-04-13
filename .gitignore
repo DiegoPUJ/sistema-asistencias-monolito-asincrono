@@ -1,0 +1,24 @@
+# Flutter
+frontend_taller/.dart_tool/
+frontend_taller/build/
+frontend_taller/.flutter-plugins
+frontend_taller/.flutter-plugins-dependencies
+frontend_taller/.packages
+frontend_taller/.idea/
+frontend_taller/.metadata
+
+# Laravel
+backend_taller/vendor/
+backend_taller/node_modules/
+backend_taller/storage/logs/
+backend_taller/bootstrap/cache/*.php
+backend_taller/.env
+backend_taller/database/*.sqlite
+backend_taller/public/storage
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
